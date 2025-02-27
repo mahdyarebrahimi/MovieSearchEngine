@@ -20,4 +20,4 @@ This project demonstrates a basic movie recommendation system using sentence emb
 2. **Place your CSV file:**
    Ensure Movies.csv is in the project directory.
 3. **Launch the Notebook:**
-   Open movie_recommender.ipynb in Jupyter Notebook.
+   Open SearchEngine.ipynb in Jupyter Notebook.
